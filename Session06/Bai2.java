@@ -23,7 +23,7 @@ class Account{
 }
 
 public class Bai2 {
-    public void main (String[] args){
+    public static void main (String[] args){
         Account ac1 = new Account("DangVanThang","vthang06","vthang0412@gmail.com");
         ac1.changePass("thang123");
         ac1.displayAccount();
