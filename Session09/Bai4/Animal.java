@@ -1,0 +1,8 @@
+package Session09.Bai4;
+
+public class Animal {
+    public void sound() {
+        System.out.println("Động vật phát ra âm thanh");
+    }
+
+}
